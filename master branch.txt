@@ -1,0 +1,4 @@
+mas 1
+mas2
+mas3 
+mas 4 .
